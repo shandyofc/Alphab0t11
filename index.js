@@ -157,8 +157,8 @@ var _minggu = 'Rp 5.000,00' //Masukkan harga sewa sesuai keinginan
 var __minggu = 'Rp 10.000,00'
 var ___minggu = 'Rp 15.000,00'
 var _bulan = 'Rp 20.000,00'
-var _permanen = 'Rp 100.000,00'
-var __permanen = 'Rp 150.000,00'
+var _permanen = 'Rp 50.000,00'
+var __permanen = 'Rp 100.000,00'
 
 zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
